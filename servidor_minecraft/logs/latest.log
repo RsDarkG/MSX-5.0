@@ -703,3 +703,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Dec2024 05:39:34.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG joined the game
 [04Dec2024 05:39:34.266] [Server thread/INFO] [Jade/]: Syncing config to RsDarkG (159b7f70-97fe-3c81-882a-74165098b963)
 [04Dec2024 05:39:34.268] [Server thread/INFO] [structurize/]: New Server UUID 45028439-02a2-42ca-a166-994bf68b3307
+[04Dec2024 06:06:41.063] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RsDarkG lost connection: Disconnected
+[04Dec2024 06:06:41.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG left the game

@@ -779,3 +779,22 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Dec2024 06:36:24.913] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
 [04Dec2024 06:36:35.722] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10498, l='ServerLevel[world]', x=-247.64, y=72.00, z=-8.42] died, message: 'Unemployed was slain by Zombie'
 [04Dec2024 06:36:51.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Not a Diamond]
+[04Dec2024 06:37:10.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Apothic Affixes]
+[04Dec2024 06:37:14.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Acquire Hardware]
+[04Dec2024 06:39:26.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RsDarkG: Set own game mode to Spectator Mode]
+[04Dec2024 06:39:34.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RsDarkG: Set own game mode to Survival Mode]
+[04Dec2024 06:40:05.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG was shot by Bonescaller
+[04Dec2024 06:40:05.174] [Server thread/INFO] [tombstone/]: The player RsDarkG has successfully been saved
+[04Dec2024 06:40:13.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Junior Summoner]
+[04Dec2024 06:40:19.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Dark Metallurgy]
+[04Dec2024 06:41:28.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Burgercum11 has made the advancement [Far From Perfect]
+[04Dec2024 06:41:28.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Burgercum11 has made the advancement [Not a Diamond]
+[04Dec2024 06:42:58.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Burgercum11 has made the advancement [Bloodthirsty]
+[04Dec2024 06:44:25.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has reached the goal [Heliomancer]
+[04Dec2024 06:44:39.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> un pergamino me dio bendicion del sol xd
+[04Dec2024 06:44:50.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Burgercum11 has completed the challenge [Well, that was disgusting]
+[04Dec2024 06:45:37.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Burgercum11 was slain by Cursed Armor
+[04Dec2024 06:45:37.125] [Server thread/INFO] [tombstone/]: The player Burgercum11 has successfully been saved
+[04Dec2024 06:45:37.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Magic Writing]
+[04Dec2024 06:46:07.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [How'd You Get This?]
+[04Dec2024 06:46:15.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RsDarkG: Teleported Burgercum11 to RsDarkG]

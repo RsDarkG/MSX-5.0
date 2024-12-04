@@ -798,3 +798,114 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Dec2024 06:45:37.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Magic Writing]
 [04Dec2024 06:46:07.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [How'd You Get This?]
 [04Dec2024 06:46:15.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RsDarkG: Teleported Burgercum11 to RsDarkG]
+[04Dec2024 06:47:08.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Ashes 'n Bones]
+[04Dec2024 06:47:47.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Suit Up]
+[04Dec2024 06:48:09.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Burgercum11 was slain by Zombie
+[04Dec2024 06:48:09.305] [Server thread/INFO] [tombstone/]: The player Burgercum11 has successfully been saved
+[04Dec2024 06:48:09.365] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[04Dec2024 06:48:09.367] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[04Dec2024 06:48:09.368] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[04Dec2024 06:48:09.369] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[04Dec2024 06:48:09.369] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[04Dec2024 06:48:21.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG was slain by Zombie
+[04Dec2024 06:48:21.443] [Server thread/INFO] [tombstone/]: The player RsDarkG has successfully been saved
+[04Dec2024 06:48:24.267] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-37, y=66, z=6}
+[04Dec2024 06:48:34.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG was slain by Zombie
+[04Dec2024 06:48:34.093] [Server thread/INFO] [tombstone/]: The player RsDarkG has successfully been saved
+[04Dec2024 06:48:53.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RsDarkG: Teleported Burgercum11 to RsDarkG]
+[04Dec2024 06:49:08.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> pera
+[04Dec2024 06:50:18.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Burgercum11 has made the advancement [Knowledge of Death]
+[04Dec2024 06:50:18.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Burgercum11 has made the advancement [A Strange Grave Dust]
+[04Dec2024 06:50:39.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Burgercum11 was slain by Zombie
+[04Dec2024 06:50:39.170] [Server thread/INFO] [tombstone/]: The player Burgercum11 has successfully been saved
+[04Dec2024 06:50:42.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG was slain by Zombie
+[04Dec2024 06:50:42.183] [Server thread/INFO] [tombstone/]: The player RsDarkG has successfully been saved
+[04Dec2024 06:51:06.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RsDarkG: Teleported Burgercum11 to RsDarkG]
+[04Dec2024 06:53:40.289] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1217) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[04Dec2024 06:53:40.292] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1217) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[04Dec2024 06:53:40.295] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1217) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[04Dec2024 06:53:46.121] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[04Dec2024 06:53:46.122] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[04Dec2024 06:54:33.465] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Dec2024 06:55:06.571] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-672, y=-65, z=278} but found not block entity block Block{minecraft:air} at location
+[04Dec2024 06:55:06.571] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-672, y=-65, z=278}
+[04Dec2024 06:55:06.572] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-671, y=-65, z=278} but found not block entity block Block{minecraft:air} at location
+[04Dec2024 06:55:06.572] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-671, y=-65, z=278}
+[04Dec2024 06:55:06.572] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-671, y=-65, z=279} but found not block entity block Block{minecraft:air} at location
+[04Dec2024 06:55:06.572] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-671, y=-65, z=279}
+[04Dec2024 06:55:06.572] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-669, y=-65, z=278} but found not block entity block Block{minecraft:air} at location
+[04Dec2024 06:55:06.572] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-669, y=-65, z=278}
+[04Dec2024 06:55:06.572] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-668, y=-65, z=278} but found not block entity block Block{minecraft:air} at location
+[04Dec2024 06:55:06.573] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-668, y=-65, z=278}
+[04Dec2024 06:56:44.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has reached the goal [Worthy Equipment]
+[04Dec2024 06:56:44.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [I Found It Underground]
+[04Dec2024 06:56:56.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Far From Perfect]
+[04Dec2024 06:57:16.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Burgercum11 was shot by Skeleton
+[04Dec2024 06:57:16.735] [Server thread/INFO] [tombstone/]: The player Burgercum11 has successfully been saved
+[04Dec2024 06:57:20.532] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Burgercum11 lost connection: Disconnected
+[04Dec2024 06:57:20.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Burgercum11 left the game
+[04Dec2024 06:58:13.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Sweet Dreams]
+[04Dec2024 06:59:39.915] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RsDarkG lost connection: Disconnected
+[04Dec2024 06:59:39.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG left the game
+[04Dec2024 06:59:55.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[04Dec2024 06:59:55.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Dec2024 06:59:55.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Dec2024 06:59:55.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Dec2024 06:59:55.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Dec2024 06:59:55.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Dec2024 06:59:55.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Dec2024 06:59:56.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Dec2024 06:59:56.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Dec2024 06:59:56.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Dec2024 06:59:56.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

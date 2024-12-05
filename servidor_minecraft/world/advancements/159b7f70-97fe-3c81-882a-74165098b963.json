@@ -348,8 +348,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2024-12-05 18:33:32 +0000",
+      "minecraft:beach": "2024-12-05 18:48:33 +0000",
       "minecraft:dark_forest": "2024-12-05 18:30:49 +0000",
       "minecraft:river": "2024-12-04 06:22:46 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-05 18:48:23 +0000",
       "minecraft:dripstone_caves": "2024-12-04 06:31:53 +0000",
       "minecraft:grove": "2024-12-05 18:27:58 +0000",
       "minecraft:jagged_peaks": "2024-12-05 18:28:51 +0000",
@@ -1025,13 +1027,16 @@
     "criteria": {
       "shrubland": "2024-12-04 06:47:30 +0000",
       "rocky_shrubland": "2024-12-04 06:25:43 +0000",
+      "bayou": "2024-12-05 18:48:41 +0000",
       "highland": "2024-12-05 18:26:46 +0000",
       "jade_cliffs": "2024-12-05 18:27:44 +0000",
       "clover_patch": "2024-12-05 18:02:26 +0000",
       "mystic_grove": "2024-12-05 18:02:24 +0000",
       "orchard": "2024-12-04 06:25:44 +0000",
+      "mediterranean_forest": "2024-12-05 18:49:37 +0000",
       "spider_nest": "2024-12-05 18:11:55 +0000",
       "redwood_forest": "2024-12-04 06:45:18 +0000",
+      "lavender_field": "2024-12-05 18:50:41 +0000",
       "grassland": "2024-12-05 18:23:09 +0000"
     },
     "done": false
@@ -1963,9 +1968,21 @@
     },
     "done": true
   },
+  "minecolonies:recipes/misc/blockhutbuilder": {
+    "criteria": {
+      "has_items": "2024-12-05 18:58:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2024-12-05 18:20:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-12-05 18:53:07 +0000"
     },
     "done": true
   },
@@ -2023,6 +2040,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/start_builder": {
+    "criteria": {
+      "builder_request": "2024-12-05 19:00:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2024-12-05 18:38:59 +0000"
@@ -2053,6 +2076,18 @@
     },
     "done": true
   },
+  "minecolonies:recipes/misc/blockhutminerstone": {
+    "criteria": {
+      "has_items": "2024-12-05 19:04:24 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockhutblacksmith": {
+    "criteria": {
+      "has_items": "2024-12-05 19:01:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2024-12-05 18:32:31 +0000"
@@ -2077,6 +2112,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-05 18:53:07 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-05 18:32:31 +0000"
@@ -2095,6 +2136,18 @@
     },
     "done": true
   },
+  "minecolonies:minecraft/craft_supply": {
+    "criteria": {
+      "supply_ship": "2024-12-05 19:19:39 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockhutcrusher": {
+    "criteria": {
+      "has_items": "2024-12-05 19:01:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-05 18:03:09 +0000"
@@ -2107,15 +2160,51 @@
     },
     "done": true
   },
+  "minecolonies:recipes/misc/blockhuttownhall": {
+    "criteria": {
+      "has_items": "2024-12-05 18:57:00 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/questlog": {
+    "criteria": {
+      "has_build_tool": "2024-12-05 18:57:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-05 18:40:33 +0000"
     },
     "done": true
   },
+  "minecolonies:recipes/misc/resourcescroll": {
+    "criteria": {
+      "has_build_tool": "2024-12-05 18:57:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-05 18:53:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-12-05 18:19:25 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockminecoloniesrack": {
+    "criteria": {
+      "has_build_tool": "2024-12-05 18:57:00 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/check_out_guide": {
+    "criteria": {
+      "click_gui_button_close": "2024-12-05 18:59:53 +0000"
     },
     "done": true
   },
@@ -2128,6 +2217,12 @@
   "biomesoplenty:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-05 18:32:31 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/build_goggles": {
+    "criteria": {
+      "has_build_tool": "2024-12-05 18:57:00 +0000"
     },
     "done": true
   },
@@ -2173,6 +2268,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/misc/blockwaypoint": {
+    "criteria": {
+      "has_build_tool": "2024-12-05 18:57:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2024-12-05 18:38:59 +0000"
@@ -2196,6 +2297,12 @@
       "entered_deep_crypt": "2024-12-05 18:15:44 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-05 18:53:07 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
@@ -2221,9 +2328,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-05 18:53:07 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/magic_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-05 18:32:31 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/clipboard": {
+    "criteria": {
+      "has_build_tool": "2024-12-05 18:57:00 +0000"
     },
     "done": true
   },
@@ -2251,6 +2370,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/misc/blockhutsmeltery": {
+    "criteria": {
+      "has_items": "2024-12-05 19:01:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-05 18:19:25 +0000"
@@ -2269,6 +2394,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-05 18:53:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2024-12-05 18:38:59 +0000"
@@ -2278,6 +2409,18 @@
   "biomesoplenty:recipes/transportation/dead_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-05 18:32:31 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/barrel_block": {
+    "criteria": {
+      "has_items": "2024-12-05 19:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-05 18:53:07 +0000"
     },
     "done": true
   },
@@ -2299,6 +2442,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/root": {
+    "criteria": {
+      "supply_ship_placed": "2024-12-05 19:19:39 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2024-12-05 18:08:52 +0000"
@@ -2314,6 +2463,12 @@
   "vampirism:recipes/combat/weapontable/crucifix_ultimate": {
     "criteria": {
       "gold": "2024-12-05 18:23:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2024-12-05 18:53:07 +0000"
     },
     "done": true
   },
@@ -2335,6 +2490,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/misc/blockhutcitizen": {
+    "criteria": {
+      "has_items": "2024-12-05 18:57:00 +0000"
+    },
+    "done": true
+  },
   "werewolves:recipes/transportation/magic_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-05 18:32:31 +0000"
@@ -2353,9 +2514,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2024-12-05 18:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2024-12-05 18:53:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2024-12-05 18:08:52 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockhutlumberjackstone": {
+    "criteria": {
+      "has_items": "2024-12-05 19:09:18 +0000"
     },
     "done": true
   },

@@ -7369,3 +7369,173 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 18:08:05.993] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.79 and blood value 12 for entity alexsmobs:gorilla
 [05Dec2024 18:08:05.994] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.79 and blood value 12 for entity alexsmobs:gorilla
 [05Dec2024 18:08:06.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> manten con una cama en el inv para que la pongas y tengas spawn
+[05Dec2024 18:08:17.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[05Dec2024 18:08:29.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Burgercum11> sova
+[05Dec2024 18:08:34.796] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.25 and blood value 0 for entity alexsmobs:terrapin
+[05Dec2024 18:09:31.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 18:09:31.109] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 18:09:55.244] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.06 and blood value 0 for entity aquaculture:box_turtle
+[05Dec2024 18:10:55.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG was slain by Gum Worm
+[05Dec2024 18:10:55.171] [Server thread/DEBUG] [tombstone/]: A new grave of the player RsDarkG was created at position [x:-1085, y:55, z:9, dim:minecraft:overworld]
+[05Dec2024 18:10:55.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RsDarkG: Set own game mode to Creative Mode]
+[05Dec2024 18:10:55.197] [Server thread/INFO] [tombstone/]: The player RsDarkG has successfully been saved
+[05Dec2024 18:11:10.887] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.62 and blood value 15 for entity iceandfire:hippogryph
+[05Dec2024 18:11:42.983] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 0 for entity iceandfire:ice_dragon
+[05Dec2024 18:11:53.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RsDarkG: Set own game mode to Spectator Mode]
+[05Dec2024 18:12:06.185] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.24 and blood value 0 for entity alexsmobs:bald_eagle
+[05Dec2024 18:12:07.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has reached the goal [Pure Imagination]
+[05Dec2024 18:12:18.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RsDarkG: Set own game mode to Survival Mode]
+[05Dec2024 18:12:24.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Burgercum11> ?
+[05Dec2024 18:12:29.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Burgercum11> Echee
+[05Dec2024 18:12:33.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> una cueva de dulces xd
+[05Dec2024 18:12:53.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> me mato un pinche gusano gigante de chicles
+[05Dec2024 18:13:06.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Yellow Brick Road]
+[05Dec2024 18:13:21.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> sera que todo se puede come?
+[05Dec2024 18:13:33.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> erda si
+[05Dec2024 18:13:42.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Unwrapped Candy]
+[05Dec2024 18:13:51.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Burgercum11> Guardame unas dulces que szs
+[05Dec2024 18:14:02.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> todo el bioma es comestible xd
+[05Dec2024 18:14:31.085] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 18:14:31.107] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 18:18:02.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RsDarkG: Set own game mode to Spectator Mode]
+[05Dec2024 18:18:06.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> yo me abro de este bioma
+[05Dec2024 18:18:10.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> no estoy preparado xd
+[05Dec2024 18:18:16.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> todo me quita 5 corazones
+[05Dec2024 18:18:26.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Burgercum11> muchas "cavidades dulces"? ASKLJDJLSADK
+[05Dec2024 18:18:31.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> AJAJJAJAJAA
+[05Dec2024 18:19:03.044] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.87 and blood value 13 for entity alexsmobs:snow_leopard
+[05Dec2024 18:19:04.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Burgercum11> tienes cama?
+[05Dec2024 18:19:04.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RsDarkG: Set own game mode to Survival Mode]
+[05Dec2024 18:19:12.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> NOP XD
+[05Dec2024 18:19:16.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> pero creo que me puedo hacer una
+[05Dec2024 18:19:23.985] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[05Dec2024 18:19:23.986] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[05Dec2024 18:19:23.986] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[05Dec2024 18:19:23.986] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:leafcutter_ant
+[05Dec2024 18:19:30.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Burgercum11> Me avisas para dormir
+[05Dec2024 18:19:31.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 18:19:31.101] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 18:19:42.130] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:capuchin_monkey
+[05Dec2024 18:19:42.130] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:capuchin_monkey
+[05Dec2024 18:19:42.130] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:capuchin_monkey
+[05Dec2024 18:19:42.130] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:capuchin_monkey
+[05Dec2024 18:19:42.130] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity alexsmobs:capuchin_monkey
+[05Dec2024 18:19:59.193] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[05Dec2024 18:20:00.031] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Dec2024 18:20:00.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> duerme
+[05Dec2024 18:20:02.780] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[05Dec2024 18:20:02.781] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[05Dec2024 18:20:02.781] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[05Dec2024 18:20:02.783] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[05Dec2024 18:20:03.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Burgercum11 has made the advancement [Sweet Dreams]
+[05Dec2024 18:20:18.824] [Server thread/DEBUG] [mixin/]: Mixing DamageHandlerMixin from vampiricageing.mixins.json into de.teamlapen.vampirism.util.DamageHandler
+[05Dec2024 18:21:39.782] [Server thread/DEBUG] [mixin/]: Mixing WearableArtifactCurioMixin from rarcompat.mixins.json into artifacts.forge.curio.WearableArtifactCurio
+[05Dec2024 18:21:39.783] [Server thread/DEBUG] [mixin/]: rarcompat.mixins.json:WearableArtifactCurioMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[05Dec2024 18:22:49.701] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Dec2024 18:22:49.702] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Dec2024 18:23:52.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RsDarkG: Teleported RsDarkG to -682.500000, 101.500000, 319.500000]
+[05Dec2024 18:23:59.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Burgercum11 has made the advancement [Acquire Hardware]
+[05Dec2024 18:24:13.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> mrk las cuevas estan full hardcore xd
+[05Dec2024 18:24:31.067] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 18:24:31.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 18:24:59.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Burgercum11> Hasta el openworld esta complicado de noche
+[05Dec2024 18:25:08.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Burgercum11> Quitan mucho todo
+[05Dec2024 18:25:11.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> melo asi el mc no es facil xd
+[05Dec2024 18:25:20.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> por primera vez eh tardado en tener diamante
+[05Dec2024 18:25:57.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Burgercum11> Yo no tengo ni hierro
+[05Dec2024 18:25:59.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Burgercum11 was doomed to fall by Skeleton
+[05Dec2024 18:25:59.086] [Server thread/DEBUG] [tombstone/]: A new grave of the player Burgercum11 was created at position [x:24, y:93, z:745, dim:minecraft:overworld]
+[05Dec2024 18:25:59.088] [Server thread/INFO] [tombstone/]: The player Burgercum11 has successfully been saved
+[05Dec2024 18:26:02.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> xd
+[05Dec2024 18:26:12.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Burgercum11> Monda
+[05Dec2024 18:26:15.123] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.29 and blood value 0 for entity alexsmobs:potoo
+[05Dec2024 18:26:25.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> yo ando buscando una aldea
+[05Dec2024 18:26:30.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> pa ponerme a vivir ahi xd
+[05Dec2024 18:26:34.623] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.17 and blood value 0 for entity alexsmobs:flutter
+[05Dec2024 18:27:02.643] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:hummingbird
+[05Dec2024 18:29:31.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 18:29:31.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 18:29:34.182] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.89 and blood value 13 for entity alexsmobs:seal
+[05Dec2024 18:29:34.182] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.89 and blood value 13 for entity alexsmobs:seal
+[05Dec2024 18:29:34.182] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.89 and blood value 13 for entity alexsmobs:seal
+[05Dec2024 18:29:34.182] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.89 and blood value 13 for entity alexsmobs:seal
+[05Dec2024 18:29:34.183] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.89 and blood value 13 for entity alexsmobs:seal
+[05Dec2024 18:29:34.183] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.89 and blood value 13 for entity alexsmobs:seal
+[05Dec2024 18:30:19.659] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.61 and blood value 15 for entity iceandfire:hippocampus
+[05Dec2024 18:30:45.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has completed the challenge [I'm not sugar coating it]
+[05Dec2024 18:30:45.974] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:seagull
+[05Dec2024 18:31:13.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> mira tu esa monda
+[05Dec2024 18:31:18.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> un zombie hechicero
+[05Dec2024 18:31:29.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> estoy que vivo en el agua
+[05Dec2024 18:31:30.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Burgercum11> Oe tienes un cubo con agua?
+[05Dec2024 18:31:32.799] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.13 and blood value 0 for entity iceandfire:sea_serpent
+[05Dec2024 18:31:34.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> nada
+[05Dec2024 18:32:05.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> a duras penas tengo hacha y pico de hierro xd
+[05Dec2024 18:32:42.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> duerme
+[05Dec2024 18:32:48.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Burgercum11> No tengo cama
+[05Dec2024 18:32:51.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> xd
+[05Dec2024 18:32:54.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Burgercum11> No mis cosas más bien KLSDJKLDAS
+[05Dec2024 18:33:12.558] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[05Dec2024 18:33:22.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Burgercum11 has made the advancement [I Found It Underground]
+[05Dec2024 18:33:47.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> hpt
+[05Dec2024 18:33:51.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> hasta el mar da miedo
+[05Dec2024 18:34:18.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Burgercum11> Oe ustedes metieron el minecolonies?
+[05Dec2024 18:34:33.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 18:34:33.135] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 18:34:43.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> sisa
+[05Dec2024 18:35:25.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> pq?
+[05Dec2024 18:36:05.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Burgercum11> Para ponerme a hacer una aldeita ahi breve
+[05Dec2024 18:36:07.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Burgercum11> KSDKASLDKLAS
+[05Dec2024 18:36:10.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> JAJAJAJ
+[05Dec2024 18:36:13.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Burgercum11> Pero ya despues
+[05Dec2024 18:36:18.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> Siempre gastan bastantes materiales
+[05Dec2024 18:37:14.777] [Worker-Main-3/DEBUG] [minecolonies/]: New Empty colony atMutableBlockPos{x=-896, y=92, z=2032}
+[05Dec2024 18:37:15.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> en que coords estas tu
+[05Dec2024 18:37:26.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Burgercum11> 179 69 811
+[05Dec2024 18:37:36.944] [Worker-Main-14/DEBUG] [minecolonies/]: New Empty colony atMutableBlockPos{x=-1520, y=92, z=1968}
+[05Dec2024 18:38:08.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Tie me to the Mast]
+[05Dec2024 18:38:22.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> yo -1131 62 1801 en pleno mar
+[05Dec2024 18:39:21.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Bloodthirsty]
+[05Dec2024 18:39:33.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 18:39:33.098] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 18:40:04.961] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/28907, l='ServerLevel[world]', x=-1112.18, y=66.00, z=1891.33] died, message: 'Fisherman bled to death'
+[05Dec2024 18:40:04.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Neighborhood Brawl]
+[05Dec2024 18:40:23.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Amateur Archaeologist]
+[05Dec2024 18:41:50.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Ahoy Captain]
+[05Dec2024 18:42:25.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> casi me matan en esa cag
+[05Dec2024 18:42:27.200] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/34420, l='ServerLevel[world]', x=-889.50, y=16.00, z=1830.50]
+[05Dec2024 18:42:30.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> cule poco de pillagers
+[05Dec2024 18:42:37.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Burgercum11> Da si compa
+[05Dec2024 18:42:41.449] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/34928, l='ServerLevel[world]', x=-887.50, y=4.00, z=1836.50]
+[05Dec2024 18:42:46.603] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[05Dec2024 18:42:47.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Burgercum11> Y unos fantasmas tambien no?
+[05Dec2024 18:42:55.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> no
+[05Dec2024 18:42:59.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> era un barco pirata xd
+[05Dec2024 18:43:21.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> el invocador no me vio tons no invoco fantasmitas
+[05Dec2024 18:43:22.650] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[05Dec2024 18:44:28.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG drowned whilst trying to escape Deepling
+[05Dec2024 18:44:28.275] [Server thread/DEBUG] [tombstone/]: A new grave of the player RsDarkG was created at position [x:-620, y:25, z:2222, dim:minecraft:overworld]
+[05Dec2024 18:44:28.278] [Server thread/INFO] [tombstone/]: The player RsDarkG has successfully been saved
+[05Dec2024 18:44:33.990] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[05Dec2024 18:44:38.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 18:44:38.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 18:44:38.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Burgercum11> SADJKLSDAKLSDJAKD
+[05Dec2024 18:44:58.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> menos mal habia puesto cama en el barco pirata xd
+[05Dec2024 18:45:23.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> me quiero ir ya del mar y nada que veo tierra firme
+[05Dec2024 18:45:42.460] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3969ms or 79 ticks behind
+[05Dec2024 18:45:42.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Burgercum11 moved too quickly! 3.603660283040604,1.0,9.521967542494508
+[05Dec2024 18:46:08.294] [Worker-Main-1/DEBUG] [minecolonies/]: New Empty colony atBlockPos{x=24, y=88, z=1224}
+[05Dec2024 18:46:08.359] [Worker-Main-1/DEBUG] [minecolonies/]: New Empty colony atBlockPos{x=24, y=88, z=1224}
+[05Dec2024 18:46:08.408] [Worker-Main-1/DEBUG] [minecolonies/]: New Empty colony atBlockPos{x=24, y=88, z=1224}
+[05Dec2024 18:46:08.446] [Worker-Main-1/DEBUG] [minecolonies/]: New Empty colony atBlockPos{x=24, y=88, z=1224}
+[05Dec2024 18:46:08.509] [Worker-Main-1/DEBUG] [minecolonies/]: New Empty colony atBlockPos{x=24, y=88, z=1224}
+[05Dec2024 18:46:09.137] [Worker-Main-1/DEBUG] [minecolonies/]: New Empty colony atMutableBlockPos{x=0, y=112, z=1232}
+[05Dec2024 18:46:09.226] [Worker-Main-1/DEBUG] [minecolonies/]: New Empty colony atBlockPos{x=24, y=88, z=1224}
+[05Dec2024 18:46:09.301] [Worker-Main-1/DEBUG] [minecolonies/]: New Empty colony atBlockPos{x=24, y=88, z=1224}
+[05Dec2024 18:46:09.323] [Worker-Main-1/DEBUG] [minecolonies/]: New Empty colony atBlockPos{x=24, y=88, z=1224}
+[05Dec2024 18:46:09.363] [Worker-Main-1/DEBUG] [minecolonies/]: New Empty colony atBlockPos{x=24, y=88, z=1224}
+[05Dec2024 18:46:09.396] [Worker-Main-1/DEBUG] [minecolonies/]: New Empty colony atBlockPos{x=24, y=88, z=1224}
+[05Dec2024 18:46:09.423] [Worker-Main-1/DEBUG] [minecolonies/]: New Empty colony atBlockPos{x=24, y=88, z=1224}
+[05Dec2024 18:47:10.186] [Worker-Main-3/DEBUG] [minecolonies/]: New Empty colony atMutableBlockPos{x=-544, y=92, z=2944}
+[05Dec2024 18:47:47.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RsDarkG: Set own game mode to Creative Mode]
+[05Dec2024 18:48:33.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> costa al fin

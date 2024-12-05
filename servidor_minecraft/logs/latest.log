@@ -705,3 +705,20 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 17:51:05.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Burgercum11 joined the game
 [05Dec2024 17:51:05.290] [Server thread/INFO] [Jade/]: Syncing config to Burgercum11 (3ad2d990-b3b5-37c2-af31-c3151b4f45ea)
 [05Dec2024 17:51:05.303] [Server thread/INFO] [structurize/]: New Server UUID 51ff9bbd-8d56-4402-a5e3-0722a6c5a8e1
+[05Dec2024 17:58:23.082] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RsDarkG[/127.165.34.239:54543] logged in with entity id 2323 at (-680.3452915208605, 101.0, 319.5784776840836)
+[05Dec2024 17:58:23.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG joined the game
+[05Dec2024 17:58:23.299] [Server thread/INFO] [Jade/]: Syncing config to RsDarkG (159b7f70-97fe-3c81-882a-74165098b963)
+[05Dec2024 17:58:26.768] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3676ms or 73 ticks behind
+[05Dec2024 17:59:43.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Isn't It Iron Pick]
+[05Dec2024 17:59:54.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> en donde andas
+[05Dec2024 18:02:40.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Not Today, Thank You]
+[05Dec2024 18:07:15.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-36, y=68, z=12}
+[05Dec2024 18:07:15.531] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-36, y=66, z=10}
+[05Dec2024 18:07:15.686] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-36, y=66, z=10}
+[05Dec2024 18:07:15.773] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-36, y=66, z=11}
+[05Dec2024 18:07:16.143] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-36, y=68, z=10}
+[05Dec2024 18:07:16.206] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-36, y=69, z=10}
+[05Dec2024 18:07:16.254] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-36, y=69, z=11}
+[05Dec2024 18:07:19.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Burgercum11 was squashed by The Bomber
+[05Dec2024 18:07:19.201] [Server thread/INFO] [tombstone/]: The player Burgercum11 has successfully been saved
+[05Dec2024 18:08:06.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RsDarkG> manten con una cama en el inv para que la pongas y tengas spawn

@@ -1552,3 +1552,54 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [12Dec2024 05:50:05.700] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@787b749b[id=<null>,name=Numbing,properties={},legacy=false] (/127.165.208.15:55837) lost connection: Disconnected
 [12Dec2024 05:50:37.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Acquire Hardware]
 [12Dec2024 05:50:43.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Isn't It Iron Pick]
+[12Dec2024 05:51:30.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zTebaamLOL has made the advancement [Isn't It Iron Pick]
+[12Dec2024 05:51:53.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG burned to death
+[12Dec2024 05:51:53.557] [Server thread/INFO] [tombstone/]: The player RsDarkG has successfully been saved
+[12Dec2024 05:52:08.447] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@13b0e80b[id=<null>,name=Numbing,properties={},legacy=false] (/127.165.208.15:42381) lost connection: Disconnected
+[12Dec2024 05:52:30.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zTebaamLOL has made the advancement [Deceived Hopes]
+[12Dec2024 05:53:17.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zTebaamLOL was shot by Skeleton
+[12Dec2024 05:53:17.851] [Server thread/INFO] [tombstone/]: The player zTebaamLOL has successfully been saved
+[12Dec2024 05:53:25.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zTebaamLOL: Teleported zTebaamLOL to -597.500000, -2.500000, -526.500000]
+[12Dec2024 05:53:35.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zTebaamLOL was shot by Skeleton
+[12Dec2024 05:53:35.204] [Server thread/INFO] [tombstone/]: The player zTebaamLOL has successfully been saved
+[12Dec2024 05:53:35.340] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[12Dec2024 05:53:35.340] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[12Dec2024 05:53:35.341] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[12Dec2024 05:53:35.341] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[12Dec2024 05:53:35.341] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 7 | client: 7
+[12Dec2024 05:53:40.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zTebaamLOL: Teleported zTebaamLOL to -586.500000, -2.500000, -516.500000]
+[12Dec2024 05:53:45.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG was doomed to fall by Skeleton
+[12Dec2024 05:53:45.362] [Server thread/INFO] [tombstone/]: The player RsDarkG has successfully been saved
+[12Dec2024 05:54:14.904] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Numbing[/127.165.208.15:47099] logged in with entity id 8798 at (-503.5, 68.0, -519.5)
+[12Dec2024 05:54:14.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numbing joined the game
+[12Dec2024 05:54:14.978] [Server thread/INFO] [Jade/]: Syncing config to Numbing (ecfeac33-a1a6-3fd5-babb-637213dfa9f6)
+[12Dec2024 05:54:14.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numbing has made the advancement [Christmas]
+[12Dec2024 05:54:15.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numbing has made the advancement [Ice and Fire]
+[12Dec2024 05:54:15.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numbing has completed the challenge [The Undead]
+[12Dec2024 05:54:32.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has reached the goal [Chain Death]
+[12Dec2024 05:54:32.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG was slain by Zombie Bruiser
+[12Dec2024 05:54:32.670] [Server thread/INFO] [tombstone/]: The player RsDarkG has successfully been saved
+[12Dec2024 05:54:45.047] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Numbing lost connection: Timed out
+[12Dec2024 05:54:45.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numbing left the game
+[12Dec2024 05:54:46.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG was slain by Zombie Bruiser
+[12Dec2024 05:54:46.608] [Server thread/INFO] [tombstone/]: The player RsDarkG has successfully been saved
+[12Dec2024 05:55:03.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zTebaamLOL has made the advancement [Diamonds!]
+[12Dec2024 05:55:12.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RsDarkG: Teleported RsDarkG to zTebaamLOL]
+[12Dec2024 05:55:13.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Diamonds!]
+[12Dec2024 05:55:13.608] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Numbing[/127.165.208.15:49629] logged in with entity id 9016 at (-503.5, 68.0, -519.5)
+[12Dec2024 05:55:13.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numbing joined the game
+[12Dec2024 05:55:13.689] [Server thread/INFO] [Jade/]: Syncing config to Numbing (ecfeac33-a1a6-3fd5-babb-637213dfa9f6)
+[12Dec2024 05:55:43.695] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Numbing lost connection: Timed out
+[12Dec2024 05:55:43.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numbing left the game
+[12Dec2024 05:56:59.497] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@494b74d[id=<null>,name=Numbing,properties={},legacy=false] (/127.165.208.15:45651) lost connection: Disconnected
+[12Dec2024 05:57:43.497] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7f61376b[id=<null>,name=Numbing,properties={},legacy=false] (/127.165.208.15:47563) lost connection: Disconnected
+[12Dec2024 05:58:42.096] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5190b9c3[id=<null>,name=Numbing,properties={},legacy=false] (/127.165.208.15:59717) lost connection: Disconnected
+[12Dec2024 05:59:18.445] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1f5a1af5[id=<null>,name=Numbing,properties={},legacy=false] (/127.165.208.15:46189) lost connection: Disconnected
+[12Dec2024 05:59:54.945] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@367cda0c[id=<null>,name=Numbing,properties={},legacy=false] (/127.165.208.15:60191) lost connection: Disconnected
+[12Dec2024 06:00:07.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zTebaamLOL: Set own game mode to Spectator Mode]
+[12Dec2024 06:00:11.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zTebaamLOL: Set own game mode to Survival Mode]
+[12Dec2024 06:00:29.847] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3a33d3b8[id=<null>,name=Numbing,properties={},legacy=false] (/127.165.208.15:51401) lost connection: Disconnected
+[12Dec2024 06:01:19.056] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Numbing[/127.165.208.15:58507] logged in with entity id 10083 at (-503.5, 68.0, -519.5)
+[12Dec2024 06:01:19.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Numbing joined the game
+[12Dec2024 06:01:19.123] [Server thread/INFO] [Jade/]: Syncing config to Numbing (ecfeac33-a1a6-3fd5-babb-637213dfa9f6)
+[12Dec2024 06:01:26.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RsDarkG: Teleported Numbing to zTebaamLOL]

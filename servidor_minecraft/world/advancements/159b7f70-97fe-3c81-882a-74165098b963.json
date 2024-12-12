@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-12 05:43:09 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2024-12-12 05:37:40 +0000"
@@ -190,6 +196,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2024-12-12 05:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-12 05:45:59 +0000"
     },
     "done": true
   },
@@ -444,6 +456,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-12 05:45:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-12-12 05:37:40 +0000"
@@ -465,6 +483,12 @@
   "vampirism:recipes/combat/hunter/crucifix": {
     "criteria": {
       "planks": "2024-12-12 05:32:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-12 05:43:09 +0000"
     },
     "done": true
   },
@@ -620,6 +644,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-12 05:40:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2024-12-12 05:33:50 +0000"
@@ -629,6 +659,12 @@
   "domum_ornamentum:recipes/tools/blue_cobblestone_extra": {
     "criteria": {
       "has_material": "2024-12-12 05:34:14 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/grave_cage": {
+    "criteria": {
+      "has_coal": "2024-12-12 05:39:31 +0000"
     },
     "done": true
   },
@@ -842,6 +878,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-12 05:44:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-12-12 05:37:40 +0000"
@@ -882,6 +924,12 @@
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2024-12-12 05:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-12 05:39:31 +0000"
     },
     "done": true
   },
@@ -951,6 +999,12 @@
       "log_spam_fixer": "2024-12-12 05:29:03 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-12 05:43:09 +0000"
+    },
+    "done": true
   },
   "aquaculture:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
@@ -1091,6 +1145,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-12 05:40:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-12 05:34:36 +0000"
@@ -1119,6 +1179,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2024-12-12 05:29:03 +0000",
+      "minecraft:lush_caves": "2024-12-12 05:41:48 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-12 05:29:37 +0000"
     },
     "done": false
@@ -1152,6 +1213,12 @@
       "has_stick": "2024-12-12 05:32:32 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "rotten_flesh": "2024-12-12 05:44:56 +0000"
+    },
+    "done": false
   },
   "aquaculture:recipes/misc/neptunium_ingot_from_nuggets": {
     "criteria": {

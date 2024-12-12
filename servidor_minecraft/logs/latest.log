@@ -1531,3 +1531,24 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [12Dec2024 05:38:05.274] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
 [12Dec2024 05:38:05.274] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
 [12Dec2024 05:38:05.274] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 8 | client: 8
+[12Dec2024 05:45:39.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG was doomed to fall by Corpse Fly
+[12Dec2024 05:45:39.077] [Server thread/INFO] [tombstone/]: The player RsDarkG has successfully been saved
+[12Dec2024 05:45:52.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zTebaamLOL was slain by Corpse Fly
+[12Dec2024 05:45:52.461] [Server thread/INFO] [tombstone/]: The player zTebaamLOL has successfully been saved
+[12Dec2024 05:46:29.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zTebaamLOL was kicked for floating too long!
+[12Dec2024 05:46:29.151] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zTebaamLOL lost connection: Disconnected
+[12Dec2024 05:46:29.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zTebaamLOL left the game
+[12Dec2024 05:46:29.204] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Dec2024 05:47:26.601] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@38fdec11[id=<null>,name=zTebaamLOL,properties={},legacy=false] (/127.108.151.117:34809) lost connection: Disconnected
+[12Dec2024 05:47:59.200] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@ec68213[id=<null>,name=zTebaamLOL,properties={},legacy=false] (/127.108.151.117:49399) lost connection: Disconnected
+[12Dec2024 05:48:10.636] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zTebaamLOL[/127.108.151.117:55265] logged in with entity id 7462 at (-644.8022407332563, 63.76116114662789, -526.0784396019044)
+[12Dec2024 05:48:10.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zTebaamLOL joined the game
+[12Dec2024 05:48:10.718] [Server thread/INFO] [Jade/]: Syncing config to zTebaamLOL (1896c537-889e-3f4d-8194-f6f30fefdd42)
+[12Dec2024 05:48:33.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zTebaamLOL has made the advancement [Knowledge of Death]
+[12Dec2024 05:48:33.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zTebaamLOL has reached the goal [Here They Come]
+[12Dec2024 05:48:57.996] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3b8f1c08[id=<null>,name=Numbing,properties={},legacy=false] (/127.165.208.15:46199) lost connection: Disconnected
+[12Dec2024 05:49:07.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zTebaamLOL has made the advancement [Acquire Hardware]
+[12Dec2024 05:49:32.145] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@9ac7986[id=<null>,name=Numbing,properties={},legacy=false] (/127.165.208.15:47955) lost connection: Disconnected
+[12Dec2024 05:50:05.700] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@787b749b[id=<null>,name=Numbing,properties={},legacy=false] (/127.165.208.15:55837) lost connection: Disconnected
+[12Dec2024 05:50:37.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Acquire Hardware]
+[12Dec2024 05:50:43.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Isn't It Iron Pick]

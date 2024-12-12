@@ -1500,3 +1500,34 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [12Dec2024 05:30:48.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RsDarkG: Set zTebaamLOL's game mode to Spectator Mode]
 [12Dec2024 05:30:51.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RsDarkG: Set zTebaamLOL's game mode to Survival Mode]
 [12Dec2024 05:30:57.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-489, y=68, z=-531}
+[12Dec2024 05:31:15.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made zTebaamLOL a server operator
+[12Dec2024 05:31:28.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RsDarkG: Made zTebaamLOL no longer a server operator]
+[12Dec2024 05:31:44.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RsDarkG: Made zTebaamLOL a server operator]
+[12Dec2024 05:33:41.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zTebaamLOL has made the advancement [Stone Age]
+[12Dec2024 05:34:14.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Stone Age]
+[12Dec2024 05:34:26.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zTebaamLOL has made the advancement [Getting an Upgrade]
+[12Dec2024 05:35:05.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Getting an Upgrade]
+[12Dec2024 05:35:13.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zTebaamLOL has made the advancement [Is this... blood?]
+[12Dec2024 05:35:14.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zTebaamLOL has made the advancement [Monster Hunter]
+[12Dec2024 05:35:45.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zTebaamLOL was shot by Skeleton
+[12Dec2024 05:35:45.459] [Server thread/INFO] [tombstone/]: The player zTebaamLOL has successfully been saved
+[12Dec2024 05:36:10.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zTebaamLOL has made the advancement [Bloodthirsty]
+[12Dec2024 05:36:12.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Is this... blood?]
+[12Dec2024 05:36:19.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG bled to death
+[12Dec2024 05:36:19.356] [Server thread/INFO] [tombstone/]: The player RsDarkG has successfully been saved
+[12Dec2024 05:36:26.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Knowledge of Death]
+[12Dec2024 05:36:26.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has reached the goal [A Fast Comeback]
+[12Dec2024 05:36:29.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has reached the goal [Here They Come]
+[12Dec2024 05:36:30.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Monster Hunter]
+[12Dec2024 05:36:42.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zTebaamLOL has reached the goal [Chain Death]
+[12Dec2024 05:36:42.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zTebaamLOL was shot by Skeleton
+[12Dec2024 05:36:42.726] [Server thread/INFO] [tombstone/]: The player zTebaamLOL has successfully been saved
+[12Dec2024 05:37:47.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG was slain by The Moonflower
+[12Dec2024 05:37:47.508] [Server thread/INFO] [tombstone/]: The player RsDarkG has successfully been saved
+[12Dec2024 05:38:05.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zTebaamLOL was slain by Dread Hound
+[12Dec2024 05:38:05.207] [Server thread/INFO] [tombstone/]: The player zTebaamLOL has successfully been saved
+[12Dec2024 05:38:05.272] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[12Dec2024 05:38:05.273] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[12Dec2024 05:38:05.274] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[12Dec2024 05:38:05.274] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[12Dec2024 05:38:05.274] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 8 | client: 8

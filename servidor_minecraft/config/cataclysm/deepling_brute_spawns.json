@@ -25,20 +25,6 @@
       {
         "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "minecraft:ocean"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "minecraft:lukewarm_ocean"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
         "value": "minecraft:warm_ocean"
       }
     ],

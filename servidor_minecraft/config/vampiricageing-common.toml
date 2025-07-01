@@ -133,6 +133,9 @@ ageLossDBNO = 1
 #Age rank at which enchanted golden apples dont provide regen
 #Range: 0 ~ 6
 goldenAppleNoRegenRank = 6
+#Age rank at which enchanted golden apples cannot be eaten
+#Range: 0 ~ 6
+goldenAppleNoEatRank = 6
 #Cooldown for water walking action
 #Range: > 0
 waterWalkingCooldown = 0

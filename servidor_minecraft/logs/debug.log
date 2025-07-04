@@ -6030,3 +6030,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Jul2025 04:36:24.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Jul2025 04:38:48.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Stone Age]
 [04Jul2025 04:39:04.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Getting an Upgrade]
+[04Jul2025 04:41:24.381] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 04:41:24.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 04:45:52.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Acquire Hardware]
+[04Jul2025 04:45:58.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Isn't It Iron Pick]
+[04Jul2025 04:46:24.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 04:46:24.387] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -6021,3 +6021,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [04Jul2025 04:28:13.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [I Found It Underground]
 [04Jul2025 04:28:13.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Amateur Archaeologist]
 [04Jul2025 04:28:15.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Ice Bucket Challenge]
+[04Jul2025 04:30:35.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Gone Bananas!]
+[04Jul2025 04:31:24.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 04:31:24.395] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 04:31:38.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Monster Hunter]
+[04Jul2025 04:33:52.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [A Strange Grave Dust]
+[04Jul2025 04:36:24.383] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 04:36:24.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 04:38:48.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Stone Age]
+[04Jul2025 04:39:04.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Getting an Upgrade]

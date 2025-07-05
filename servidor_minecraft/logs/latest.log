@@ -683,3 +683,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Jul2025 04:15:58.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] RsDarkG has made the advancement [Bat Mode]
 [05Jul2025 04:17:45.820] [Worker-Main-5/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [05Jul2025 04:17:45.820] [Worker-Main-5/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Jul2025 04:21:30.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] RsDarkG has reached the goal [Senior Summoner]
+[05Jul2025 04:23:44.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] RsDarkG has made the advancement [I Found It Underground]
+[05Jul2025 04:30:33.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] RsDarkG has completed the challenge [Thine end is here.]
+[05Jul2025 04:30:37.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] RsDarkG has completed the challenge [One eyed big skelly]

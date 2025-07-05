@@ -710,3 +710,115 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Jul2025 04:57:01.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] RsDarkG has reached the goal [Compact Necromancy]
 [05Jul2025 04:57:53.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] RsDarkG has made the advancement [Best Friends Forever]
 [05Jul2025 04:58:45.541] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Farmer'/21747, l='ServerLevel[world]', x=1196.18, y=75.00, z=-1502.14] died, message: 'Farmer was slain by Werewolf'
+[05Jul2025 05:02:17.604] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[05Jul2025 05:04:32.149] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Foridbob'/24651, l='ServerLevel[world]', x=1235.03, y=62.63, z=-1546.89] died: 1$s has perished from holy damage
+[05Jul2025 05:05:05.793] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/18585, l='ServerLevel[world]', x=1161.50, y=78.50, z=-1460.80] died, message: 'Leatherworker was slain by Zombie'
+[05Jul2025 05:06:19.636] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/21340, l='ServerLevel[world]', x=1172.45, y=76.00, z=-1498.43] died, message: 'Farmer bled to death'
+[05Jul2025 05:06:52.486] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/25478, l='ServerLevel[world]', x=1190.30, y=75.00, z=-1481.30] died, message: 'Leatherworker was slain by Zombie'
+[05Jul2025 05:06:52.532] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/18225, l='ServerLevel[world]', x=1156.79, y=74.00, z=-1545.17] died, message: 'Farmer bled to death'
+[05Jul2025 05:07:33.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] RsDarkG: Set own game mode to Creative Mode]
+[05Jul2025 05:09:35.960] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundContainerClickPacket@141c2e1e, suppressing error
+java.lang.IndexOutOfBoundsException: Index -7 out of bounds for length 38
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.set(ArrayList.java:441) ~[?:?]
+	at net.minecraft.core.NonNullList.set(NonNullList.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.p3pp3rf1y.sophisticatedcore.common.gui.StorageContainerMenuBase.m_182414_(StorageContainerMenuBase.java:1002) ~[sophisticatedcore-1.20.1-1.2.71.1022.jar%23233!/:1.20.1-1.2.71.1022]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5914_(ServerGamePacketListenerImpl.java:1551) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.m_5797_(ServerboundContainerClickPacket.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.m_5797_(ServerboundContainerClickPacket.java:12) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[05Jul2025 05:10:06.941] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/25780, l='ServerLevel[world]', x=1217.81, y=72.00, z=-1514.30] died, message: 'Unemployed was slain by Zombie'
+[05Jul2025 05:10:15.587] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/25661, l='ServerLevel[world]', x=1180.01, y=71.00, z=-1525.03] died, message: 'Cleric was slain by Zombie'
+[05Jul2025 05:10:20.697] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Farmer'/25370, l='ServerLevel[world]', x=1189.91, y=71.00, z=-1522.51] died, message: 'Farmer was slain by Zombie'
+[05Jul2025 05:10:31.538] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Farmer'/25729, l='ServerLevel[world]', x=1177.30, y=75.00, z=-1504.30] died, message: 'Farmer was slain by Sucker'
+[05Jul2025 05:10:42.388] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/21634, l='ServerLevel[world]', x=1168.53, y=77.00, z=-1477.48] died, message: 'Fletcher was slain by Zombie'
+[05Jul2025 05:10:46.189] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Unemployed'/26247, l='ServerLevel[world]', x=1161.32, y=78.50, z=-1460.90] died, message: 'Unemployed was slain by Zombie'
+[05Jul2025 05:10:52.799] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Leatherworker'/20993, l='ServerLevel[world]', x=1149.93, y=77.00, z=-1483.07] died, message: 'Leatherworker was shot by Skeleton'
+[05Jul2025 05:11:02.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] RsDarkG: Set own game mode to Survival Mode]
+[05Jul2025 05:11:11.637] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Farmer'/21534, l='ServerLevel[world]', x=1139.50, y=77.00, z=-1490.50] died, message: 'Farmer was slain by Sucker'
+[05Jul2025 05:11:14.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] RsDarkG: Set own game mode to Creative Mode]
+[05Jul2025 05:11:15.041] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/26297, l='ServerLevel[world]', x=1142.30, y=76.00, z=-1488.24] died, message: 'Unemployed was shot by Skeleton'
+[05Jul2025 05:11:56.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] RsDarkG: Set own game mode to Survival Mode]
+[05Jul2025 05:12:40.835] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Farmer'/26437, l='ServerLevel[world]', x=1176.55, y=71.00, z=-1528.36] died, message: 'Farmer hit the ground too hard whilst trying to escape Sucker'
+[05Jul2025 05:12:58.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] RsDarkG: Set own game mode to Creative Mode]
+[05Jul2025 05:13:16.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] RsDarkG: Set own game mode to Survival Mode]
+[05Jul2025 05:13:20.038] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Unemployed'/26562, l='ServerLevel[world]', x=1206.50, y=71.00, z=-1421.99] died, message: 'Unemployed was slain by Werewolf'
+[05Jul2025 05:14:29.286] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Leatherworker'/26623, l='ServerLevel[world]', x=1161.39, y=78.50, z=-1460.80] died, message: 'Leatherworker was slain by Door Knight'
+[05Jul2025 05:14:34.986] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Leatherworker'/26487, l='ServerLevel[world]', x=1156.45, y=77.00, z=-1453.44] died, message: 'Leatherworker was slain by Door Knight'
+[05Jul2025 05:16:02.838] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Unemployed'/26859, l='ServerLevel[world]', x=1085.29, y=77.00, z=-1472.32] died, message: 'Unemployed was slain by The Moonflower'
+[05Jul2025 05:16:08.290] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/26403, l='ServerLevel[world]', x=1122.70, y=76.00, z=-1478.69] died, message: 'Unemployed was slain by The Moonflower'
+[05Jul2025 05:17:09.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] RsDarkG: Set own game mode to Creative Mode]
+[05Jul2025 05:17:15.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] RsDarkG: Set own game mode to Survival Mode]
+[05Jul2025 05:18:50.121] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundContainerClickPacket@77d5a444, suppressing error
+java.lang.IndexOutOfBoundsException: Index -16 out of bounds for length 41
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.set(ArrayList.java:441) ~[?:?]
+	at net.minecraft.core.NonNullList.set(NonNullList.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.p3pp3rf1y.sophisticatedcore.common.gui.StorageContainerMenuBase.m_182414_(StorageContainerMenuBase.java:1002) ~[sophisticatedcore-1.20.1-1.2.71.1022.jar%23233!/:1.20.1-1.2.71.1022]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5914_(ServerGamePacketListenerImpl.java:1551) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.m_5797_(ServerboundContainerClickPacket.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.m_5797_(ServerboundContainerClickPacket.java:12) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[05Jul2025 05:18:54.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] RsDarkG: Set own game mode to Creative Mode]
+[05Jul2025 05:19:02.401] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundContainerClickPacket@7f70f0ff, suppressing error
+java.lang.IndexOutOfBoundsException: Index -5 out of bounds for length 41
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.set(ArrayList.java:441) ~[?:?]
+	at net.minecraft.core.NonNullList.set(NonNullList.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.p3pp3rf1y.sophisticatedcore.common.gui.StorageContainerMenuBase.m_182414_(StorageContainerMenuBase.java:1002) ~[sophisticatedcore-1.20.1-1.2.71.1022.jar%23233!/:1.20.1-1.2.71.1022]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5914_(ServerGamePacketListenerImpl.java:1551) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.m_5797_(ServerboundContainerClickPacket.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.m_5797_(ServerboundContainerClickPacket.java:12) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[05Jul2025 05:19:20.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] RsDarkG: Set own game mode to Survival Mode]
+[05Jul2025 05:20:32.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] RsDarkG: Teleported [Prince] RsDarkG to 1226.500000, 72.500000, -1479.500000]
+[05Jul2025 05:20:34.544] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RsDarkG lost connection: Disconnected
+[05Jul2025 05:20:34.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] RsDarkG left the game

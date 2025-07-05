@@ -2665,76 +2665,81 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-05 04:54:47 +0000"
+      "log_spam_fixer": "2025-07-05 05:19:47 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-07-05 04:55:03 +0000",
-      "log_spam_fixer": "2025-07-05 04:54:47 +0000"
+      "log_spam_fixer": "2025-07-05 05:19:47 +0000"
     },
-    "done": true
+    "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-05 04:54:47 +0000"
+      "log_spam_fixer": "2025-07-05 05:19:47 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-05 04:54:47 +0000"
+      "log_spam_fixer": "2025-07-05 05:19:47 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-05 04:54:47 +0000"
+      "log_spam_fixer": "2025-07-05 05:19:47 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-05 04:54:47 +0000"
+      "log_spam_fixer": "2025-07-05 05:19:47 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-05 04:54:47 +0000"
+      "log_spam_fixer": "2025-07-05 05:19:47 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-05 04:54:47 +0000"
+      "log_spam_fixer": "2025-07-05 05:19:47 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-05 04:54:47 +0000"
+      "log_spam_fixer": "2025-07-05 05:19:47 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-05 04:54:47 +0000"
+      "log_spam_fixer": "2025-07-05 05:19:47 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-05 04:54:47 +0000"
+      "log_spam_fixer": "2025-07-05 05:19:47 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-05 04:54:47 +0000"
+      "log_spam_fixer": "2025-07-05 05:19:47 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-05 04:55:49 +0000"
+    },
+    "done": true
   },
   "vampirism:vampire/blood_cult": {
     "criteria": {
@@ -2798,6 +2803,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-07-05 05:16:26 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_yellow_from_white": {
     "criteria": {
       "has_coffin": "2025-07-05 04:48:44 +0000"
@@ -2840,6 +2851,12 @@
   "undead_revamp2:parry": {
     "criteria": {
       "parry_0": "2025-07-05 03:52:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-05 05:06:04 +0000"
     },
     "done": true
   },
@@ -2945,6 +2962,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/xp_pump_upgrade": {
+    "criteria": {
+      "has_advanced_pump_upgrade": "2025-07-05 05:09:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-07-05 04:52:13 +0000"
@@ -2960,6 +2983,12 @@
   "vampirism:recipes/decorations/vampire/coffin_red_from_white": {
     "criteria": {
       "has_coffin": "2025-07-05 04:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-05 04:57:53 +0000"
     },
     "done": true
   },
@@ -3029,9 +3058,33 @@
     },
     "done": false
   },
+  "werewolves:recipes/combat/pelt_helmet": {
+    "criteria": {
+      "has_pelt": "2025-07-05 04:58:30 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/leather_from_obi_belt": {
     "criteria": {
       "has_obi_belt": "2025-07-05 04:06:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-07-05 05:06:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-05 05:17:29 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/pelt_boots": {
+    "criteria": {
+      "has_pelt": "2025-07-05 04:58:30 +0000"
     },
     "done": true
   },
@@ -3102,9 +3155,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-05 05:02:03 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_light_gray_from_white": {
     "criteria": {
       "has_coffin": "2025-07-05 04:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-07-05 05:16:26 +0000"
     },
     "done": true
   },
@@ -3154,6 +3219,12 @@
   "vampirism:recipes/decorations/vampire/coffin_purple_from_white": {
     "criteria": {
       "has_coffin": "2025-07-05 04:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-05 05:06:04 +0000"
     },
     "done": true
   },
@@ -3229,6 +3300,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-05 04:55:49 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/chests": {
     "criteria": {
       "sword": "2025-07-05 04:23:44 +0000"
@@ -3244,6 +3321,12 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-05 04:43:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-05 04:55:49 +0000"
     },
     "done": true
   },
@@ -3343,6 +3426,12 @@
     },
     "done": true
   },
+  "werewolves:recipes/combat/pelt_leggings": {
+    "criteria": {
+      "has_pelt": "2025-07-05 04:58:30 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/become_vampire": {
     "criteria": {
       "main": "2025-07-05 03:59:49 +0000"
@@ -3398,9 +3487,21 @@
     },
     "done": true
   },
+  "werewolves:recipes/combat/pelt_chestplate": {
+    "criteria": {
+      "has_pelt": "2025-07-05 04:58:30 +0000"
+    },
+    "done": true
+  },
   "apotheosis:spawner/capturing": {
     "criteria": {
       "egg": "2025-07-05 04:05:18 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:compact_necromancy": {
+    "criteria": {
+      "compact_necromancy_0": "2025-07-05 04:57:01 +0000"
     },
     "done": true
   },

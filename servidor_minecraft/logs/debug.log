@@ -6061,3 +6061,37 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Jul2025 04:38:48.449] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.89 and blood value 13 for entity alexsmobs:seal
 [05Jul2025 04:38:48.449] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.89 and blood value 13 for entity alexsmobs:seal
 [05Jul2025 04:38:48.450] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.89 and blood value 13 for entity alexsmobs:seal
+[05Jul2025 04:40:36.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 04:40:36.275] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 04:41:00.085] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Initiated capture with strength 0.33333334 by vampirism:vampire at BlockPos{x=1186, y=77, z=-1487} with badomen level -1
+[05Jul2025 04:41:06.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] RsDarkG has made the advancement [The Bodyguard]
+[05Jul2025 04:41:18.468] [Worker-Main-3/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 53.5s
+[05Jul2025 04:41:25.237] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/17415, l='ServerLevel[world]', x=1186.04, y=76.00, z=-1493.61] died, message: 'Angry Villager was slain by Zin'
+[05Jul2025 04:41:26.739] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/17416, l='ServerLevel[world]', x=1188.23, y=76.00, z=-1486.52] died, message: 'Angry Villager was slain by Spectral Wolf'
+[05Jul2025 04:41:36.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] RsDarkG has made the advancement [The Guardian]
+[05Jul2025 04:41:58.891] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/17414, l='ServerLevel[world]', x=1134.99, y=76.94, z=-1481.61] died, message: '1$s has perished from holy damage'
+[05Jul2025 04:45:36.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 04:45:36.248] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 04:45:45.943] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/18086, l='ServerLevel[world]', x=1138.29, y=77.00, z=-1491.84] died, message: 'Farmer was sucked dry fighting [Prince] RsDarkG'
+[05Jul2025 04:46:47.994] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/18326, l='ServerLevel[world]', x=1135.00, y=76.94, z=-1490.51] died, message: 'Farmer was sucked dry'
+[05Jul2025 04:47:07.186] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Unemployed'/18917, l='ServerLevel[world]', x=1179.48, y=71.00, z=-1482.79] died, message: 'Unemployed was slain by The Swarmer'
+[05Jul2025 04:50:36.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 04:50:36.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 04:51:24.640] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Vampire Expert'/18127, l='ServerLevel[world]', x=1196.33, y=75.00, z=-1489.48] died, message: 'Vampire Expert was slain by Zombie Bruiser'
+[05Jul2025 04:53:26.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] RsDarkG: Teleported [Prince] RsDarkG to 1226.500000, 72.500000, -1479.500000]
+[05Jul2025 04:54:03.788] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/21291, l='ServerLevel[world]', x=1168.66, y=77.00, z=-1475.24] died, message: 'Unemployed was slain by The Moonflower'
+[05Jul2025 04:54:07.638] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Farmer'/21025, l='ServerLevel[world]', x=1130.70, y=79.42, z=-1469.61] died, message: 'Farmer was slain by The Moonflower'
+[05Jul2025 04:54:25.386] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Farmer'/20986, l='ServerLevel[world]', x=1156.26, y=74.00, z=-1539.61] died, message: 'Farmer was slain by The Moonflower'
+[05Jul2025 04:54:47.442] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/21376, l='ServerLevel[world]', x=1123.65, y=78.00, z=-1473.64] died, message: 'Unemployed was slain by The Moonflower'
+[05Jul2025 04:55:01.344] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Unemployed'/21026, l='ServerLevel[world]', x=1145.14, y=76.00, z=-1497.45] died, message: 'Unemployed was scorched to death'
+[05Jul2025 04:55:12.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] RsDarkG has reached the goal [Fortuitous Militia]
+[05Jul2025 04:55:19.289] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Fletcher'/17944, l='ServerLevel[world]', x=1224.78, y=72.00, z=-1483.95] died, message: '1$s has perished from holy damage'
+[05Jul2025 04:55:29.543] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/21457, l='ServerLevel[world]', x=1200.91, y=73.00, z=-1457.63] died, message: 'Unemployed was slain by The Moonflower'
+[05Jul2025 04:55:36.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 04:55:36.245] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 04:56:02.539] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Unemployed'/21412, l='ServerLevel[world]', x=1162.07, y=77.00, z=-1459.54] died, message: 'Unemployed was slain by The Moonflower'
+[05Jul2025 04:56:27.136] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/21596, l='ServerLevel[world]', x=1189.51, y=76.00, z=-1492.77] died, message: 'Unemployed was slain by The Moonflower'
+[05Jul2025 04:57:01.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] RsDarkG has reached the goal [Compact Necromancy]
+[05Jul2025 04:57:21.314] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Initiated capture with strength 0.33333334 by werewolves:werewolf at BlockPos{x=1186, y=77, z=-1487} with badomen level 0
+[05Jul2025 04:57:53.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] RsDarkG has made the advancement [Best Friends Forever]
+[05Jul2025 04:58:45.541] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Farmer'/21747, l='ServerLevel[world]', x=1196.18, y=75.00, z=-1502.14] died, message: 'Farmer was slain by Werewolf'

@@ -822,3 +822,14 @@ java.lang.IndexOutOfBoundsException: Index -5 out of bounds for length 41
 [05Jul2025 05:20:32.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] RsDarkG: Teleported [Prince] RsDarkG to 1226.500000, 72.500000, -1479.500000]
 [05Jul2025 05:20:34.544] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RsDarkG lost connection: Disconnected
 [05Jul2025 05:20:34.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] RsDarkG left the game
+[05Jul2025 05:21:04.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[05Jul2025 05:21:04.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Jul2025 05:21:04.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Jul2025 05:21:04.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Jul2025 05:21:04.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05Jul2025 05:21:05.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05Jul2025 05:21:05.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05Jul2025 05:21:05.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Jul2025 05:21:05.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Jul2025 05:21:05.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Jul2025 05:21:05.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

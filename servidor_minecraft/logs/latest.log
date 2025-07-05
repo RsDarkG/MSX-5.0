@@ -678,3 +678,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Jul2025 04:08:57.603] [Server thread/WARN] [de.teamlapen.vampirism.entity.minion.management.MinionData/]: Cannot upgrade minion stat as no stat points are left
 [05Jul2025 04:09:00.989] [Server thread/WARN] [de.teamlapen.vampirism.entity.minion.management.MinionData/]: Cannot upgrade minion stat as no stat points are left
 [05Jul2025 04:09:04.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] RsDarkG has made the advancement [Blood Collector]
+[05Jul2025 04:11:16.011] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Zach'/5107, l='ServerLevel[world]', x=1056.34, y=77.00, z=-433.09] died: Zach was slain by [Prince] RsDarkG
+[05Jul2025 04:14:53.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] RsDarkG has made the advancement [Bloody Stream]
+[05Jul2025 04:15:58.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] RsDarkG has made the advancement [Bat Mode]
+[05Jul2025 04:17:45.820] [Worker-Main-5/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Jul2025 04:17:45.820] [Worker-Main-5/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 

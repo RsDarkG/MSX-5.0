@@ -6014,3 +6014,28 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Jul2025 04:08:57.603] [Server thread/WARN] [de.teamlapen.vampirism.entity.minion.management.MinionData/]: Cannot upgrade minion stat as no stat points are left
 [05Jul2025 04:09:00.989] [Server thread/WARN] [de.teamlapen.vampirism.entity.minion.management.MinionData/]: Cannot upgrade minion stat as no stat points are left
 [05Jul2025 04:09:04.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] RsDarkG has made the advancement [Blood Collector]
+[05Jul2025 04:10:19.603] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 0 for entity iceandfire:ice_dragon
+[05Jul2025 04:10:36.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 04:10:36.252] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 04:10:51.537] [Server thread/DEBUG] [mixin/]: Mixing WearableArtifactCurioMixin from rarcompat.mixins.json into artifacts.forge.curio.WearableArtifactCurio
+[05Jul2025 04:10:51.537] [Server thread/DEBUG] [mixin/]: rarcompat.mixins.json:WearableArtifactCurioMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[05Jul2025 04:11:16.011] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Zach'/5107, l='ServerLevel[world]', x=1056.34, y=77.00, z=-433.09] died: Zach was slain by [Prince] RsDarkG
+[05Jul2025 04:11:40.868] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 0 for entity iceandfire:fire_dragon
+[05Jul2025 04:11:52.813] [Worker-Main-4/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Jul2025 04:11:52.814] [Worker-Main-4/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from bygonenether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Jul2025 04:11:52.814] [Worker-Main-4/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Jul2025 04:11:53.292] [Worker-Main-4/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[05Jul2025 04:13:03.218] [Worker-Main-4/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[05Jul2025 04:13:03.219] [Worker-Main-4/DEBUG] [mixin/]: Mixing MixinJigsawPlacer from vampirism.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[05Jul2025 04:14:00.895] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1221, y=72, z=-659}) doesn't have enough leaves around top most log
+[05Jul2025 04:14:53.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] RsDarkG has made the advancement [Bloody Stream]
+[05Jul2025 04:15:36.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 04:15:36.252] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 04:15:58.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] RsDarkG has made the advancement [Bat Mode]
+[05Jul2025 04:16:07.403] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.06 and blood value 0 for entity aquaculture:box_turtle
+[05Jul2025 04:16:51.953] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 9.2 and blood value 15 for entity alexsmobs:tusklin
+[05Jul2025 04:16:51.953] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 9.2 and blood value 15 for entity alexsmobs:tusklin
+[05Jul2025 04:16:51.953] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 9.2 and blood value 15 for entity alexsmobs:tusklin
+[05Jul2025 04:17:29.803] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.39 and blood value 2 for entity alexsmobs:tasmanian_devil
+[05Jul2025 04:17:45.820] [Worker-Main-5/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Jul2025 04:17:45.820] [Worker-Main-5/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 

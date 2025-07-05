@@ -646,3 +646,35 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Jul2025 03:52:17.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has completed the challenge [+PARRY]
 [05Jul2025 03:55:18.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement ['Tis But a Scratch!]
 [05Jul2025 03:55:35.318] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Count Roy the Mythical'/2336, l='ServerLevel[world]', x=953.68, y=104.00, z=-352.13] died: Count Roy the Mythical was frozen to death
+[05Jul2025 03:59:49.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has reached the goal [As Bloody as it Gets]
+[05Jul2025 03:59:49.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RsDarkG: RsDarkG is now a Vampire level 14]
+[05Jul2025 04:00:04.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Modern Technology]
+[05Jul2025 04:00:04.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Stay dead monster. You don't belong in this world]
+[05Jul2025 04:00:04.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Betrayal]
+[05Jul2025 04:00:04.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has made the advancement [Vampire Doctor]
+[05Jul2025 04:00:04.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has completed the challenge [Through the Heart]
+[05Jul2025 04:00:04.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has reached the goal [As Deadly as it Gets]
+[05Jul2025 04:00:04.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has completed the challenge [The Hunter of the Hunters]
+[05Jul2025 04:00:04.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RsDarkG has completed the challenge [Hunter of the Shadows]
+[05Jul2025 04:00:04.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RsDarkG: Granted 9 advancements to RsDarkG]
+[05Jul2025 04:00:45.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] RsDarkG has completed the challenge [Dark Rebirth]
+[05Jul2025 04:00:45.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RsDarkG: RsDarkG is now a Vampire lord level 5]
+[05Jul2025 04:01:10.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] RsDarkG: RsDarkG is now age 5]
+[05Jul2025 04:03:00.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] RsDarkG: Set own game mode to Creative Mode]
+[05Jul2025 04:03:17.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Prince] RsDarkG> .
+[05Jul2025 04:03:22.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] RsDarkG: Set own game mode to Survival Mode]
+[05Jul2025 04:03:27.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <[Princess] RsDarkG> -
+[05Jul2025 04:04:12.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] RsDarkG: Set own game mode to Creative Mode]
+[05Jul2025 04:05:18.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] RsDarkG has made the advancement [Captured!]
+[05Jul2025 04:06:56.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] RsDarkG: Applied effect Sunscreen to [Prince] RsDarkG]
+[05Jul2025 04:07:03.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] RsDarkG: Set own game mode to Survival Mode]
+[05Jul2025 04:07:06.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] RsDarkG: Set own game mode to Creative Mode]
+[05Jul2025 04:07:19.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[Prince] RsDarkG: Set own game mode to Survival Mode]
+[05Jul2025 04:08:40.485] [Server thread/WARN] [de.teamlapen.vampirism.entity.minion.management.MinionData/]: Cannot upgrade minion stat as no stat points are left
+[05Jul2025 04:08:44.305] [Server thread/WARN] [de.teamlapen.vampirism.entity.minion.management.MinionData/]: Cannot upgrade minion stat as no stat points are left
+[05Jul2025 04:08:44.401] [Server thread/WARN] [de.teamlapen.vampirism.entity.minion.management.MinionData/]: Cannot upgrade minion stat as no stat points are left
+[05Jul2025 04:08:54.249] [Server thread/WARN] [de.teamlapen.vampirism.entity.minion.management.MinionData/]: Cannot upgrade minion stat as no stat points are left
+[05Jul2025 04:08:54.357] [Server thread/WARN] [de.teamlapen.vampirism.entity.minion.management.MinionData/]: Cannot upgrade minion stat as no stat points are left
+[05Jul2025 04:08:57.603] [Server thread/WARN] [de.teamlapen.vampirism.entity.minion.management.MinionData/]: Cannot upgrade minion stat as no stat points are left
+[05Jul2025 04:09:00.989] [Server thread/WARN] [de.teamlapen.vampirism.entity.minion.management.MinionData/]: Cannot upgrade minion stat as no stat points are left
+[05Jul2025 04:09:04.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Prince] RsDarkG has made the advancement [Blood Collector]

@@ -1,0 +1,64 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1782601263627
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1782632746155
+  login: 1782632436330
+money: '0'
+last-account-name: RsDarkG
+lastlocation:
+  world: 6467bd8b-3bca-4417-b8a2-3ba05f599556
+  world-name: world_nether
+  x: 169.91143142810716
+  y: 60.92159999847412
+  z: 345.3667816256128
+  yaw: 40.95184326171875
+  pitch: 24.9257869720459
+logoutlocation:
+  world: 894e80e7-0f4d-4348-b571-8bf7171b6bae
+  world-name: world
+  x: -2512.585101060474
+  y: 64.0
+  z: -1438.2865023564798
+  yaw: 164.1065673828125
+  pitch: 21.272735595703125
+homes:
+  aldea:
+    world: 894e80e7-0f4d-4348-b571-8bf7171b6bae
+    world-name: world
+    x: -2423.25004377556
+    y: 63.0
+    z: -1529.6175290514147
+    yaw: 97.645751953125
+    pitch: 14.849985122680664
+  casa:
+    world: 894e80e7-0f4d-4348-b571-8bf7171b6bae
+    world-name: world
+    x: -2396.4034082062253
+    y: 215.0
+    z: -1578.3524293867831
+    yaw: -87.4542236328125
+    pitch: 38.55006408691406
+  fortaleza:
+    world: 6467bd8b-3bca-4417-b8a2-3ba05f599556
+    world-name: world_nether
+    x: 200.19014649938768
+    y: 66.0
+    z: 357.9294841748398
+    yaw: -162.59844970703125
+    pitch: 16.075822830200195

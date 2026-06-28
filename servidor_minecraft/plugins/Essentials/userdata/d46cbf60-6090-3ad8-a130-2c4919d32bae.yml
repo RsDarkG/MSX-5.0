@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1782600498833
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1782601849763
+  login: 1782600219351
+money: '0'
+last-account-name: mateogei
+lastlocation:
+  world: 894e80e7-0f4d-4348-b571-8bf7171b6bae
+  world-name: world
+  x: -2316.5
+  y: 52.5625
+  z: -1480.5
+  yaw: -29.399991989135742
+  pitch: 35.2500114440918
+logoutlocation:
+  world: 894e80e7-0f4d-4348-b571-8bf7171b6bae
+  world-name: world
+  x: -2379.986127287796
+  y: 43.0
+  z: -1458.6129097401888
+  yaw: -89.79150390625
+  pitch: -7.325991630554199
